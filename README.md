@@ -1,12 +1,19 @@
-## Hi there 👋
+# Hi, I'm ambr3 👋
 
-I build privacy-friendly apps and tools that make my life easier — and I make no apologies for being a vibe-coder.
+### 👨‍💻 What I do
+- I build privacy-friendly apps and tools that make my life easier
+- Learning: AI coding (Vibe-coding)
+- Currently working on:
+- https://github.com/ambr3/Ambr3Weather
+- https://github.com/ambr3/-Ambr3Calendar
 
-Can I code? Yes. Am I great at it? Not really. Without AI I'd rarely finish a project — it takes me so long to get the code right that I get bored and move on to the next shiny idea.
+### 🔥 Featured Projects
+1. **Favorite project** 
+    https://github.com/ambr3/Ambr3Weather
 
-This isn't my day job. It's a hobby — so I'd rather ship something imperfect than sit on an idea forever.
+### 🧩 Connect
+- matrix: @solair3:matrix.org
+- Website: https://ambr3.github.io/main-site/
 
-- 🔭 I’m currently working on https://github.com/ambr3/Ambr3Weather
-- 🌱 I’m currently learning how to use AI to help me code better
-- 🤔 I’m looking for help with code reviews
-- 📫 How to reach me: [@solair3:matrix.org] [https://ambr3.github.io/main-site/]
+### 🛠 Tech Stack
+<img src="https://skillicons.dev/icons?i=css" />
