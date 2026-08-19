@@ -16,4 +16,4 @@
 - Website: https://ambr3.github.io/main-site/
 
 ### 🛠 Tech Stack
-<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript" />
