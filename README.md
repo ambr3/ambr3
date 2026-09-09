@@ -28,7 +28,7 @@
 | Project | What it is |
 |---|---|
 | [**Seclusa Weather**](https://github.com/ambr3/SeclusaWeather) | A zero-tracking, offline-capable weather PWA — installable, auditable, no API keys |
-| [**-Ambr3Calendar**](https://github.com/ambr3/SeclusaCalendar) | A calendar app, also built for privacy |
+| [**Seclusa Calendar**](https://github.com/ambr3/SeclusaCalendar) | A calendar app, also built for privacy |
 
 ## ⭐ Featured
 
