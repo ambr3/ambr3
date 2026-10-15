@@ -1,8 +1,6 @@
 # Seclusa lives on my site
 
-<p align="center">
-  <img src="seclusa-github-banner.svg" alt="Seclusa — home is ambr3.pages.dev" width="100%">
-</p>
+![Seclusa — home is ambr3.pages.dev](seclusa-github-banner.png)
 
 GitHub is fine for mirrors and issues.  
 **Home is [ambr3.pages.dev](https://ambr3.pages.dev/).**
