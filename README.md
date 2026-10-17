@@ -2,36 +2,22 @@
 
 ![Seclusa — home is ambr3.pages.dev](seclusa-github-banner.png)
 
-GitHub is fine for mirrors and issues.  
+GitHub is fine for issues.  
 **Home is [ambr3.pages.dev](https://ambr3.pages.dev/).**
 
 This repo exists so anyone who lands on my GitHub profile isn’t left guessing. I don’t treat GitHub as the place you *must* go to run or read my stuff.
 
 ---
+## Why not keep everything on GitHub?
 
-**Go here instead**
+I make privacy-focused apps, such as notes, calendars, and games. My goal is for your information to stay in your browser, without accounts, ads, or tracking. The weather feature contacts Open-Meteo only when you ask for the weather.
 
-```
-site     https://ambr3.pages.dev/
-apps     https://ambr3.pages.dev/#apps
-source   https://ambr3.pages.dev/source/      # ~/source
-about    https://ambr3.pages.dev/about/
-privacy  https://ambr3.pages.dev/privacy/
-```
+My website is the main home for my projects. It includes its own repository browser, where you can explore the project files and versions in a GitHub-like way, without needing a GitHub account.
 
----
+You can browse it at [ambr3.pages.dev/source](https://ambr3.pages.dev/source/).
 
-## Why not “just GitHub”?
+This GitHub profile mainly points you to my website and gives you a place to report problems by creating issues. If a repository here looks empty or has only a little code, visit the source browser to explore the project.
 
-I build **privacy-first PWAs**. Notes, calendar, games — your data stays in the browser. No accounts. No trackers. No ads. Weather only hits [Open-Meteo](https://open-meteo.com/) when you ask.
-
-That only holds if the *whole surface* matches: apps and source on one static origin I control, with a hard CSP and no analytics bolted on for vanity metrics.
-
-`~/source` is a proper source browser on that same site. You can open the code in a tab. No login required. Unfinished work can sit there until it’s ready for a public git remote.
-
-The site is plain files on Cloudflare Pages. What you download is what runs. That’s the point.
-
-GitHub still has a job — collaboration, issues, the occasional mirror. It’s not the canonical home. If a repo here looks empty or thin, check **`~/source`**. That’s usually where the real tree is.
 
 ---
 
